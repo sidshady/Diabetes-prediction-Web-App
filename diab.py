@@ -1,4 +1,5 @@
 #pip install scikit-learn
+#code for spyder
 import sklearn
 import numpy as np
 import pickle
